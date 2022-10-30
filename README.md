@@ -1,2 +1,6 @@
 # Networking
-Networking with python
+
+Introduction to networking 
+
+## Using
+  - Python3
